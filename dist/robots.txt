@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-ochoa-co.dream-surge.com/sitemap-index.xml

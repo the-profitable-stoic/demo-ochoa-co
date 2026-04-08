@@ -1,0 +1,574 @@
+{
+  "business": {
+    "name": "Ochoa Co.",
+    "phone": "+16159202307",
+    "category": "general contractor",
+    "city": "Nashville",
+    "state": "TN"
+  },
+  "design": {
+    "preset": {
+      "id": "general-contractor-mountain-bold",
+      "categoryGroup": "general-contractor",
+      "name": "Mountain Bold",
+      "recipeFile": "general-contractor/mountain-bold.astro",
+      "colors": {
+        "primary": "#0F1D30",
+        "primaryDark": "#0b1422",
+        "primaryLight": "#c3c7cb",
+        "secondary": "#1E3A5F",
+        "accent": "#3B82F6",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#0F1D30",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "general-contractor/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Nashville's Trusted Contractor",
+      "heroSubline": "Building and renovating homes with integrity and skill. Serving Nashville, Franklin, and beyond.",
+      "aboutTitle": "Building Nashville, One Project at a Time",
+      "aboutText": [
+        "Ochoa Co. started with a simple goal: to provide honest, reliable general contractor services to our neighbors in Nashville. We saw a need for a contractor that prioritized communication, quality craftsmanship, and a deep understanding of the unique challenges and opportunities presented by Nashville's diverse housing stock.",
+        "Our approach is rooted in collaboration and transparency. We work closely with homeowners from the initial consultation to the final walkthrough, ensuring every detail aligns with their vision and budget. We value open communication, meticulous planning, and a commitment to exceeding expectations on every project.",
+        "We are proud to be a part of the Nashville community. We believe in giving back through volunteer work and supporting local initiatives. Our commitment extends beyond construction; we strive to build lasting relationships and contribute to the growth and prosperity of our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Nashville's climate, housing styles, and building codes."
+        },
+        {
+          "title": "Transparent Communication",
+          "description": "We keep you informed every step of the way with clear and consistent communication."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "Skilled professionals dedicated to delivering exceptional results that stand the test of time."
+        },
+        {
+          "title": "Reliable and Trustworthy",
+          "description": "We are committed to honesty, integrity, and exceeding your expectations."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Home?",
+      "ctaSubline": "Contact us today for a free consultation and discover how Ochoa Co. can bring your vision to life."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Transform your kitchen into the heart of your Nashville home.",
+        "description": "The kitchen is the heart of any home, and in Nashville, where culinary traditions run deep, it's even more significant. Ochoa Co. specializes in kitchen remodeling projects that blend functionality, style, and the unique character of your home. Whether you're looking to update outdated appliances, reconfigure the layout for better flow, or create a completely new gourmet space, we have the expertise to bring your vision to life.\n\nWe understand the challenges of kitchen remodeling in older Nashville homes, from navigating plumbing and electrical systems to working with unique architectural details. We handle every aspect of the project, from design and material selection to demolition, installation, and finishing touches. We source high-quality materials that withstand the demands of daily use and complement your home's aesthetic.\n\nOur team works closely with you to understand your needs, preferences, and budget. We provide detailed plans, transparent pricing, and regular updates throughout the project. We minimize disruption to your daily life and ensure a clean and safe work environment. From modernizing a 1920s bungalow in East Nashville to updating a suburban ranch in Brentwood, we tailor our approach to suit your specific needs and create a kitchen you'll love for years to come.",
+        "process": [
+          "Step 1: Initial Consultation and Design Planning",
+          "Step 2: Material Selection and Budget Approval",
+          "Step 3: Demolition and Construction",
+          "Step 4: Installation and Finishing Touches"
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality and flow",
+          "Enhanced aesthetic appeal",
+          "Energy-efficient upgrades"
+        ],
+        "faq": [
+          {
+            "question": "How long does a kitchen remodel typically take?",
+            "answer": "The duration of a kitchen remodel depends on the scope of the project, but typically it ranges from 4 to 8 weeks. We provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do you handle plumbing and electrical work?",
+            "answer": "Yes, we have licensed and experienced plumbers and electricians on our team to handle all necessary plumbing and electrical work."
+          },
+          {
+            "question": "How much does a kitchen remodel cost?",
+            "answer": "The cost of a kitchen remodel varies depending on the size, scope, and materials used. We provide a detailed estimate after the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Create a spa-like retreat in your Nashville home with our bathroom remodeling services.",
+        "description": "Your bathroom should be a sanctuary, a place to relax and rejuvenate. Ochoa Co. specializes in bathroom remodeling projects that transform outdated spaces into luxurious retreats. Whether you're looking to update fixtures, expand the footprint, or create a completely new bathroom design, we have the expertise to bring your vision to life.\n\nWe understand the unique challenges of bathroom remodeling in Nashville, from dealing with moisture and ventilation issues to working within the constraints of existing plumbing and electrical systems. We handle every aspect of the project, from design and material selection to demolition, installation, and finishing touches. We source high-quality, water-resistant materials that withstand the demands of daily use and complement your home's aesthetic.\n\nOur team works closely with you to understand your needs, preferences, and budget. We provide detailed plans, transparent pricing, and regular updates throughout the project. We minimize disruption to your daily life and ensure a clean and safe work environment. From updating a small powder room to creating a master bathroom oasis, we tailor our approach to suit your specific needs and create a bathroom you'll love.",
+        "process": [
+          "Step 1: Design Consultation and Planning",
+          "Step 2: Fixture and Material Selection",
+          "Step 3: Demolition and Reconstruction",
+          "Step 4: Plumbing and Electrical Installation",
+          "Step 5: Finishing and Inspection"
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality and comfort",
+          "Enhanced energy efficiency",
+          "Personalized design and style"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit for a bathroom remodel?",
+            "answer": "In many cases, yes, a permit is required for bathroom remodeling, especially if you're altering plumbing or electrical systems. We handle all necessary permitting for your project."
+          },
+          {
+            "question": "How long does a bathroom remodel take?",
+            "answer": "A typical bathroom remodel can take anywhere from 1 to 3 weeks, depending on the scope of the project."
+          },
+          {
+            "question": "Can you help with design ideas?",
+            "answer": "Absolutely! We have a team of experienced designers who can help you create a bathroom that reflects your style and needs."
+          }
+        ]
+      },
+      {
+        "slug": "whole-house-remodeling",
+        "name": "Whole House Remodeling",
+        "shortDescription": "Transform your entire Nashville home with our comprehensive remodeling services.",
+        "description": "Ready for a complete home transformation? Ochoa Co. offers comprehensive whole house remodeling services to revitalize your living space and create the home of your dreams. Whether you're looking to update an older home in East Nashville, add an addition to your Brentwood estate, or completely reconfigure the layout of your Murfreesboro family home, we have the expertise to handle every aspect of the project.\n\nWe understand that whole house remodeling can be a significant undertaking, and we are committed to providing a seamless and stress-free experience. Our team works closely with you to develop a detailed plan that aligns with your vision, budget, and timeline. We handle all aspects of the project, from initial design and planning to demolition, construction, and finishing touches.\n\nWe take pride in our craftsmanship and attention to detail. We use high-quality materials and employ skilled tradespeople to ensure exceptional results that stand the test of time. We also prioritize communication and transparency, keeping you informed every step of the way. Whether it's updating the electrical in an older home to meet current code or completely redesigning the floor plan, we'll make sure your home is up to your standards.",
+        "process": [
+          "Step 1: Comprehensive Consultation and Design",
+          "Step 2: Budgeting and Contract Agreement",
+          "Step 3: Permitting and Pre-Construction",
+          "Step 4: Demolition and Construction",
+          "Step 5: Finishing and Final Walkthrough"
+        ],
+        "benefits": [
+          "Increased home value and equity",
+          "Improved functionality and livability",
+          "Enhanced energy efficiency and comfort",
+          "Personalized design and style that reflects your vision"
+        ],
+        "faq": [
+          {
+            "question": "How long does a whole house remodel typically take?",
+            "answer": "The duration of a whole house remodel depends on the scope of the project, but it typically ranges from several months to a year. We provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Will I need to move out during the remodel?",
+            "answer": "In most cases, it is recommended to move out during a whole house remodel to minimize disruption and ensure safety. We can help you with relocation planning."
+          },
+          {
+            "question": "How do I prepare for a whole house remodel?",
+            "answer": "We provide a detailed checklist to help you prepare for the remodel, including clearing out belongings, securing valuables, and making arrangements for pets."
+          }
+        ]
+      },
+      {
+        "slug": "deck-patio-construction",
+        "name": "Deck & Patio Construction",
+        "shortDescription": "Enhance your outdoor living space with a custom deck or patio.",
+        "description": "Nashville's beautiful weather makes outdoor living a must. Ochoa Co. specializes in designing and building custom decks and patios that enhance your outdoor living space and create a relaxing environment for family and friends. Whether you're looking to build a new deck for entertaining, create a cozy patio for relaxing, or add a pergola for shade, we have the expertise to bring your vision to life.\n\nWe understand the unique challenges of outdoor construction in Nashville, from dealing with the hot humid summers to selecting materials that withstand the elements. We use high-quality, weather-resistant materials that are designed to last. We also consider the specific characteristics of your property, including the landscape, topography, and existing structures.\n\nOur team works closely with you to develop a design that meets your needs, preferences, and budget. We handle all aspects of the project, from permitting and site preparation to construction and finishing touches. We prioritize safety and ensure that all work is done to code. Whether you're looking to build a simple deck or a complex outdoor living area, we have the expertise to create a space you'll love for years to come.",
+        "process": [
+          "Step 1: Consultation and Design Planning",
+          "Step 2: Material Selection and Permitting",
+          "Step 3: Site Preparation and Construction",
+          "Step 4: Finishing and Final Inspection"
+        ],
+        "benefits": [
+          "Increased home value",
+          "Enhanced outdoor living space",
+          "Improved aesthetics",
+          "Added entertainment area"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit to build a deck or patio?",
+            "answer": "Yes, in most cases, a permit is required to build a deck or patio. We handle all necessary permitting for your project."
+          },
+          {
+            "question": "What materials are best for decks and patios in Nashville?",
+            "answer": "Popular materials for decks and patios in Nashville include pressure-treated lumber, composite decking, natural stone, and pavers. We can help you choose the best materials for your specific needs and budget."
+          },
+          {
+            "question": "How long does it take to build a deck or patio?",
+            "answer": "The duration of the project depends on the size and complexity of the deck or patio, but typically it ranges from 1 to 4 weeks."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair-replacement",
+        "name": "Siding Repair & Replacement",
+        "shortDescription": "Protect your Nashville home with quality siding repair and replacement services.",
+        "description": "Protecting your home from the elements is crucial, especially in Nashville, where we experience hot summers, occasional ice storms, and severe spring thunderstorms. Ochoa Co. offers professional siding repair and replacement services to keep your home looking its best and protected from the elements. Whether you have damaged siding due to weather, age, or pests, we can provide a solution that meets your needs and budget.\n\nWe understand the importance of proper siding installation and maintenance. We use high-quality materials that are designed to withstand the Nashville climate. We also ensure that the siding is properly installed to prevent moisture damage, pest infestations, and other problems. We work with a variety of siding materials, including vinyl, wood, fiber cement, and metal.\n\nOur team will assess the condition of your siding and recommend the best course of action. We provide transparent pricing and detailed explanations of the work to be performed. We are committed to providing exceptional customer service and ensuring your satisfaction. Whether you need a small repair or a complete siding replacement, we have the expertise to get the job done right.",
+        "process": [
+          "Step 1: Inspection and Assessment",
+          "Step 2: Material Selection and Estimate",
+          "Step 3: Siding Removal and Preparation",
+          "Step 4: Installation and Finishing"
+        ],
+        "benefits": [
+          "Improved curb appeal",
+          "Increased home value",
+          "Enhanced weather protection",
+          "Reduced energy costs"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need to replace my siding?",
+            "answer": "Signs that you may need to replace your siding include cracks, warps, rot, mold, and fading. If you notice any of these issues, it's best to have your siding inspected by a professional."
+          },
+          {
+            "question": "What type of siding is best for Nashville's climate?",
+            "answer": "Fiber cement siding is a popular choice for Nashville's climate because it is durable, weather-resistant, and low-maintenance. Vinyl siding is also a good option for its affordability and versatility."
+          },
+          {
+            "question": "How much does it cost to replace siding?",
+            "answer": "The cost of siding replacement depends on the size of your home, the type of siding you choose, and the complexity of the project. We provide free estimates to help you budget for your siding replacement project."
+          }
+        ]
+      },
+      {
+        "slug": "roofing-services",
+        "name": "Roofing Services",
+        "shortDescription": "Protect your home with our expert roofing repair and replacement services.",
+        "description": "Your roof is your home's first line of defense against the elements. Ochoa Co. provides comprehensive roofing services to ensure your home is protected from leaks, damage, and the unpredictable Nashville weather. From minor repairs to complete roof replacements, our team has the expertise and experience to handle any roofing project.\n\nWe understand the importance of a properly installed and maintained roof. We use high-quality materials and employ skilled roofing professionals to ensure exceptional results that stand the test of time. We also offer a variety of roofing options to suit your style and budget, including asphalt shingles, metal roofing, and tile roofing.\n\nOur team will assess the condition of your roof and recommend the best course of action. We provide transparent pricing and detailed explanations of the work to be performed. We are committed to providing exceptional customer service and ensuring your satisfaction. Whether you need a minor repair or a complete roof replacement, we have the expertise to get the job done right and protect your home for years to come.",
+        "process": [
+          "Step 1: Roof Inspection and Assessment",
+          "Step 2: Material Selection and Estimate",
+          "Step 3: Tear-Off and Preparation",
+          "Step 4: Installation and Finishing"
+        ],
+        "benefits": [
+          "Enhanced protection from the elements",
+          "Increased home value",
+          "Improved energy efficiency",
+          "Extended roof lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need a new roof?",
+            "answer": "Signs that you may need a new roof include leaks, missing or damaged shingles, sagging, and excessive granule loss. If you notice any of these issues, it's best to have your roof inspected by a professional."
+          },
+          {
+            "question": "What type of roofing is best for Nashville's climate?",
+            "answer": "Asphalt shingles are a popular choice for Nashville's climate because they are affordable, durable, and readily available. Metal roofing is also a good option for its longevity and energy efficiency."
+          },
+          {
+            "question": "How long does a roof replacement take?",
+            "answer": "A typical roof replacement can take anywhere from 1 to 5 days, depending on the size and complexity of the roof."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Franklin",
+        "slug": "franklin-tn",
+        "state": "TN",
+        "content": "Ochoa Co. is proud to offer our comprehensive general contractor services to the historic city of Franklin, Tennessee. Known for its charming antebellum homes and vibrant historic downtown, Franklin presents unique construction and renovation opportunities. We understand the importance of preserving the architectural integrity of these homes while incorporating modern amenities and energy-efficient upgrades.\n\nOur team has extensive experience working on historic properties, ensuring that all projects meet local regulations and maintain the character of Franklin's distinct neighborhoods. From kitchen and bath remodels to whole-house renovations and additions, Ochoa Co. is committed to providing exceptional craftsmanship and customer satisfaction in Franklin.\n\nNashville's hot, humid summers can be challenging for construction. We take extra precautions to protect your property and ensure the longevity of our work in the face of these conditions, from proper ventilation to moisture management.",
+        "localContext": "Franklin, TN, is characterized by its historic downtown area featuring beautifully preserved antebellum homes and a hot, humid climate during the summer months.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Nashville",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Murfreesboro",
+        "slug": "murfreesboro-tn",
+        "state": "TN",
+        "content": "Ochoa Co. provides general contractor services to Murfreesboro, Tennessee, a rapidly growing city known for its affordable family developments and strong community spirit. We specialize in new construction, renovations, and additions that cater to the needs of modern families.\n\nWhether you're looking to build your dream home, remodel your existing space, or add an extension for a growing family, Ochoa Co. is here to help. We prioritize open communication, transparency, and quality craftsmanship to ensure your project is completed on time and within budget.\n\nWe are familiar with the specific challenges of building and renovating in Murfreesboro, including navigating local building codes and addressing the impact of the hot, humid summers on construction materials and techniques.",
+        "localContext": "Murfreesboro, TN, is known for its affordable family-friendly neighborhoods and experiences hot, humid summers, making durable and weather-resistant construction crucial.",
+        "nearbyAreas": [
+          "Smyrna",
+          "La Vergne",
+          "Shelbyville"
+        ]
+      },
+      {
+        "city": "Brentwood",
+        "slug": "brentwood-tn",
+        "state": "TN",
+        "content": "Ochoa Co. proudly serves the affluent community of Brentwood, Tennessee, offering high-end general contractor services for luxury estates and custom homes. Brentwood is known for its sprawling wooded lots and discerning homeowners who demand the highest quality craftsmanship and attention to detail.\n\nWe specialize in creating bespoke living spaces that reflect our clients' unique tastes and lifestyles. From custom kitchens and luxurious bathrooms to outdoor living areas and whole-house renovations, Ochoa Co. is committed to exceeding expectations.\n\nWe understand the importance of privacy and discretion when working in Brentwood. Our team is experienced in managing complex projects with minimal disruption to your daily life. We are also aware of the impact of the hot, humid summers on Brentwood's properties and ensure our work is built to withstand these conditions.",
+        "localContext": "Brentwood, TN, is known for its luxury estates situated on wooded lots and experiences hot, humid summers, requiring high-quality, weather-resistant construction.",
+        "nearbyAreas": [
+          "Franklin",
+          "Nashville",
+          "Nolensville"
+        ]
+      },
+      {
+        "city": "Hendersonville",
+        "slug": "hendersonville-tn",
+        "state": "TN",
+        "content": "Ochoa Co. is pleased to offer general contractor services to Hendersonville, Tennessee, a vibrant city located on the shores of Old Hickory Lake. Hendersonville is known for its beautiful lakefront homes and a relaxed, family-friendly atmosphere.\n\nWe specialize in designing and building custom homes that take advantage of the stunning lake views and provide seamless indoor-outdoor living. Whether you're looking to build a new waterfront retreat or renovate your existing home, Ochoa Co. is here to help.\n\nWe are experienced in working with waterfront properties and understand the unique challenges they present, including erosion control and flood prevention. We also take into account the hot, humid summers when selecting materials and construction techniques to ensure the longevity of your home.",
+        "localContext": "Hendersonville, TN, is characterized by its lakefront homes on Old Hickory Lake and experiences hot, humid summers, requiring specialized construction techniques for waterfront properties.",
+        "nearbyAreas": [
+          "Gallatin",
+          "Goodlettsville",
+          "White House"
+        ]
+      },
+      {
+        "city": "Nashville",
+        "slug": "nashville-tn",
+        "state": "TN",
+        "content": "Ochoa Co. is a premier general contractor serving the vibrant city of Nashville, Tennessee. As Nashville continues to grow and evolve, we're proud to be a part of its construction landscape, offering a wide range of services from residential renovations to commercial build-outs.\n\nOur team is experienced in navigating the unique challenges of building in Nashville, including its diverse architectural styles, stringent building codes, and the demands of a rapidly growing population. We prioritize quality, efficiency, and customer satisfaction in every project we undertake.\n\nFrom historic neighborhoods to modern developments, Ochoa Co. is committed to providing exceptional craftsmanship and innovative solutions to meet the needs of Nashville's residents and businesses. The hot, humid summers are always a factor in our planning.",
+        "localContext": "Nashville, TN, is a rapidly growing city with diverse architectural styles and experiences hot, humid summers, requiring versatile and weather-resistant construction expertise.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Franklin",
+          "Goodlettsville"
+        ]
+      },
+      {
+        "city": "Spring Hill",
+        "slug": "spring-hill-tn",
+        "state": "TN",
+        "content": "Ochoa Co. extends its general contractor services to the growing community of Spring Hill, Tennessee. Known for its family-friendly atmosphere and convenient location, Spring Hill is a popular choice for those seeking a balance between suburban living and access to urban amenities.\n\nWe specialize in new home construction, renovations, and additions that cater to the needs of growing families. Whether you're looking to build your dream home or upgrade your existing space, Ochoa Co. is committed to providing exceptional quality and customer service.\n\nWe understand the importance of affordability and value in Spring Hill. Our team works closely with clients to develop cost-effective solutions that meet their needs and budget, while also considering the impact of the hot, humid summers on construction.",
+        "localContext": "Spring Hill, TN, is a family-friendly community experiencing rapid growth and hot, humid summers, making affordable and durable construction essential.",
+        "nearbyAreas": [
+          "Columbia",
+          "Franklin",
+          "Thompson's Station"
+        ]
+      },
+      {
+        "city": "Smyrna",
+        "slug": "smyrna-tn",
+        "state": "TN",
+        "content": "Ochoa Co. provides comprehensive general contractor services to Smyrna, Tennessee, a thriving community with a strong industrial base and a growing residential population. We offer a wide range of services to meet the diverse needs of Smyrna's residents and businesses.\n\nFrom new construction and renovations to commercial build-outs and industrial projects, Ochoa Co. is committed to delivering exceptional quality and value. We prioritize safety, efficiency, and customer satisfaction in every project we undertake.\n\nWe are familiar with the specific building codes and regulations in Smyrna and have experience working on a variety of projects, while also considering the impact of the hot, humid summers on construction materials and techniques.",
+        "localContext": "Smyrna, TN, is a thriving community with a strong industrial base and experiences hot, humid summers, requiring versatile and reliable construction services.",
+        "nearbyAreas": [
+          "Murfreesboro",
+          "La Vergne",
+          "Antioch"
+        ]
+      },
+      {
+        "city": "Gallatin",
+        "slug": "gallatin-tn",
+        "state": "TN",
+        "content": "Ochoa Co. is proud to serve Gallatin, Tennessee, offering reliable general contractor services to this historic and growing city. Located near Old Hickory Lake, Gallatin offers a blend of small-town charm and modern amenities.\n\nWe specialize in residential construction, renovations, and additions, catering to the unique needs of Gallatin's homeowners. Whether you're looking to build a new home with lake access or remodel your existing property, Ochoa Co. is here to assist.\n\nWe understand the importance of preserving Gallatin's historical character while incorporating modern design and functionality. We also take into account the impact of the hot, humid summers and proximity to the lake when planning and executing our projects.",
+        "localContext": "Gallatin, TN, is a historic city near Old Hickory Lake and experiences hot, humid summers, requiring construction that respects its heritage and withstands the local climate.",
+        "nearbyAreas": [
+          "Hendersonville",
+          "Portland",
+          "White House"
+        ]
+      },
+      {
+        "city": "La Vergne",
+        "slug": "la-vergne-tn",
+        "state": "TN",
+        "content": "Ochoa Co. is pleased to provide general contractor services to La Vergne, Tennessee, a diverse and rapidly growing community located near Nashville. We offer a wide range of services to meet the needs of La Vergne's residents and businesses.\n\nFrom residential renovations and additions to commercial construction and tenant improvements, Ochoa Co. is committed to delivering exceptional quality and value. We prioritize customer satisfaction and work closely with our clients to ensure their vision is realized.\n\nWe are familiar with the local building codes and regulations in La Vergne and have experience working on a variety of projects, while also addressing the challenges posed by the hot, humid summers.",
+        "localContext": "La Vergne, TN, is a diverse and growing community experiencing hot, humid summers, requiring adaptable and reliable construction services.",
+        "nearbyAreas": [
+          "Smyrna",
+          "Antioch",
+          "Murfreesboro"
+        ]
+      },
+      {
+        "city": "Goodlettsville",
+        "slug": "goodlettsville-tn",
+        "state": "TN",
+        "content": "Ochoa Co. offers general contractor services in Goodlettsville, Tennessee, a charming city known for its historic downtown and strong community spirit. We provide a range of services tailored to the needs of Goodlettsville's residents and businesses.\n\nWe specialize in residential renovations, custom home building, and commercial construction, focusing on quality craftsmanship and attention to detail. Whether you're looking to restore a historic home or build a modern office space, Ochoa Co. is here to help.\n\nWe understand the importance of preserving Goodlettsville's unique character while incorporating modern amenities. We also consider the impact of the hot, humid summers on building materials and construction techniques.",
+        "localContext": "Goodlettsville, TN, is a city with a historic downtown and experiences hot, humid summers, requiring construction that respects its heritage and withstands the local climate.",
+        "nearbyAreas": [
+          "Hendersonville",
+          "Nashville",
+          "White House"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Kitchen Remodel",
+        "text": "Ochoa Co. did an amazing job remodeling our kitchen! They listened to our ideas, offered helpful suggestions, and stayed within our budget. The craftsmanship is excellent, and the entire team was professional and courteous. We highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Bathroom Remodel",
+        "text": "We hired Ochoa Co. to remodel our master bathroom, and we're very pleased with the results. The project took a little longer than expected due to some unforeseen plumbing issues, but they communicated clearly and kept us informed throughout the process. The finished bathroom is beautiful and functional.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Deck Construction",
+        "text": "Ochoa Co. built a fantastic deck for our backyard. They helped us design a space that perfectly fits our needs and lifestyle. The construction was top-notch, and the team was always on time and respectful of our property. We're so happy with our new outdoor living space!",
+        "date": "2024-08-05"
+      },
+      {
+        "name": "Michael L.",
+        "rating": 5,
+        "service": "Siding Replacement",
+        "text": "Our old siding was falling apart, and Ochoa Co. did a great job replacing it with new, durable siding. They were efficient, professional, and the price was very reasonable. Our house looks brand new!",
+        "date": "2024-06-10"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Roofing Repair",
+        "text": "We had a leak in our roof after a recent storm, and Ochoa Co. responded quickly and fixed the problem efficiently. They were honest and upfront about the cost, and we appreciate their prompt and reliable service.",
+        "date": "2024-04-22"
+      },
+      {
+        "name": "Brian S.",
+        "rating": 5,
+        "service": "Whole House Remodel",
+        "text": "Ochoa Co. managed our whole house remodel and did an exceptional job. They were organized, detail-oriented, and kept the project on schedule. Their team was skilled and professional, and they made the stressful process of remodeling much easier. We would definitely hire them again!",
+        "date": "2023-09-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Ochoa Co. | Nashville Contractor",
+        "description": "Trusted general contractor in Nashville, TN. Kitchens, baths, decks, roofing. Quality work, local expertise. Call +16159202307"
+      },
+      "about": {
+        "title": "About Ochoa Co. | Nashville, TN",
+        "description": "Learn about Ochoa Co., a Nashville-based general contractor. Our values, commitment to quality, and community involvement."
+      },
+      "services": {
+        "title": "Ochoa Co. | Nashville Contractor Services",
+        "description": "Comprehensive contractor services in Nashville, TN. Kitchen remodeling, bathroom renovation, roofing, siding, decks, and more."
+      },
+      "contact": {
+        "title": "Contact Ochoa Co. | Nashville, TN",
+        "description": "Reach out to Ochoa Co. for your contracting needs in Nashville. Get a free consultation. +16159202307"
+      },
+      "reviews": {
+        "title": "Ochoa Co. | Nashville Contractor Reviews",
+        "description": "Read reviews and testimonials from satisfied Ochoa Co. customers in Nashville, TN. See why we're a trusted choice."
+      },
+      "service-areas": {
+        "title": "Ochoa Co. | Service Areas",
+        "description": "Ochoa Co. provides general contractor services in Nashville, Franklin, Murfreesboro, Brentwood, Hendersonville, TN."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "whole-house-remodeling": "/images/service-whole-house-remodeling.webp",
+      "deck-patio-construction": "/images/service-deck-patio-construction.webp",
+      "siding-repair-replacement": "/images/service-siding-repair-replacement.webp",
+      "roofing-services": "/images/service-roofing-services.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "whole-house-remodeling": {
+        "src": "/images/service-whole-house-remodeling.webp",
+        "srcset": "/images/service-whole-house-remodeling-400w.webp 400w, /images/service-whole-house-remodeling-800w.webp 800w, /images/service-whole-house-remodeling-1200w.webp 1200w, /images/service-whole-house-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-patio-construction": {
+        "src": "/images/service-deck-patio-construction.webp",
+        "srcset": "/images/service-deck-patio-construction-400w.webp 400w, /images/service-deck-patio-construction-800w.webp 800w, /images/service-deck-patio-construction-1200w.webp 1200w, /images/service-deck-patio-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair-replacement": {
+        "src": "/images/service-siding-repair-replacement.webp",
+        "srcset": "/images/service-siding-repair-replacement-400w.webp 400w, /images/service-siding-repair-replacement-800w.webp 800w, /images/service-siding-repair-replacement-1200w.webp 1200w, /images/service-siding-repair-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roofing-services": {
+        "src": "/images/service-roofing-services.webp",
+        "srcset": "/images/service-roofing-services-400w.webp 400w, /images/service-roofing-services-800w.webp 800w, /images/service-roofing-services-1200w.webp 1200w, /images/service-roofing-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
